@@ -1,0 +1,68 @@
+﻿country,biz_still_open,counts,mapped_label,consolidated_label
+BFA,Yes,482,,
+BFA,No,116,,
+CDI,Yes,247,,
+CDI,No,30,,
+COL,Yes,68,,
+COL,No,35,,
+COL,Doesn¬¥t apply,1,,
+GHN,"Yes, Business remains open as usual",127,,
+GHN,"Yes, Business remains open but operations have been reduced",103,,
+GHN,"Yes, Farming work has not changed",47,,
+GHN,"No, temporarily closed due to challenges related to the COVID-19 outbreak",23,,
+GHN,"Yes, Business remains open but some/many people are working from home",9,,
+GHN,"No, temporarily closed by government mandate",4,,
+GHN,"No, temporarily or permanently closed due to factors unrelated to the COVID 19 o",4,,
+GHN,"Yes, Business remains open but some or many workers have been laid off",3,,
+GHN,"No, permanently closed due to challenges related to the COVID-19 outbreak",2,,
+MEX,"Yes, Business remains open but operation has been reduced",173,,
+MEX,"No, temporarily closed due to challenges related to the COVID-19 outbreak",171,,
+MEX,"No, temporarily closed by government mandate",161,,
+MEX,"Yes, Business remains open but some/many people are working from home",159,,
+MEX,"Yes, Business remains open as usual",119,,
+MEX,"Yes, Business remains open but some or many workers have been laid off",39,,
+MEX,"No, permanently closed due to challenges related to the COVID-19 outbreak",24,,
+MEX,"No, temporarily or permanently closed due to factors unrelated to the COVID 19 outbreak",16,,
+MEX,"Yes, Farming work has not changed",4,,
+RWA,-999,1,DNK,
+RWA,1,8,"No, temporarily closed by government mandate","No, temp closed gov"
+RWA,2,12,"No, temporarily closed due to challenges related to the COVID-19 outbreak","No, temp closed COVID"
+RWA,3,3,"No, temporarily or permanently closed due to factors unrelated to the COVID 19 outbreak","No, temp or perm closed"
+RWA,4,3,"No, permanently closed due to challenges related to the COVID-19 outbreak","No, perm closed COVID"
+RWA,5,15,"Yes, Business remains open but some/many people are working from home","Yes, but some WFH"
+RWA,6,83,"Yes, Business remains open but operations have been reduced","Yes, but ops reduced"
+RWA,7,3,"Yes, Business remains open but some or many workers have been laid off or suspended","Yes, but some laid off"
+RWA,8,47,"Yes, Business remains open as usual","Yes, as usual"
+RWA,9,64,"Yes, Farming work has not changed","Yes, farming unchanged"
+RWA,11,2,"Yes, but some or many workers had to take forced leaves""","Yes, but some laid off"
+RWA,1 2,3,#N/A,"No, temp closed gov"
+RWA,1 2 3,3,#N/A,"No, temp closed gov"
+RWA,5 6,4,#N/A,"Yes, but some WFH"
+RWA,5 6 7,1,#N/A,"Yes, but some WFH"
+RWA,5 6 7 9,1,#N/A,"Yes, but some WFH"
+RWA,5 7,1,#N/A,"Yes, but some WFH"
+RWA,6 -888,1,#N/A,"Yes, but ops reduced"
+RWA,6 7,4,#N/A,"Yes, but ops reduced"
+RWA,6 7 8,1,#N/A,"Yes, but ops reduced"
+RWA,6 8,1,#N/A,"Yes, but ops reduced"
+RWA,6 9,1,#N/A,"Yes, but ops reduced"
+SLE,"Yes, Business remains open but operations have been reduced",316,,
+SLE,"Yes, Business remains open as usual",146,,
+SLE,"No, temporarily closed due to challenges related to the COVID-19 outbreak",30,,
+SLE,"Yes, Business remains open but some or many workers have been laid off",24,,
+SLE,"No, temporarily closed by government mandate",15,,
+SLE,"Yes, Business remains open but some/many people are working from home",14,,
+SLE,"No, temporarily or permanently closed due to factors unrelated to the COVID 19 o",9,,
+SLE,"Yes, Farming work has not changed",9,,
+SLE,"No, permanently closed due to challenges related to the COVID-19 outbreak",3,,
+ZMB,"Yes, Business remains open as usual",107,,
+ZMB,"Yes, Business remains open but operations have been reduced",43,,
+ZMB,"Yes, Farming work has not changed",23,,
+ZMB,"No, temporarily closed due to challenges related to the COVID-19 outbreak",14,,
+ZMB,"No, temporarily or permanently closed due to factors unrelated to the COVID 19 o",7,,
+ZMB,"Yes, Business remains open but some/many people are working from home",3,,
+ZMB,"Yes, Business remains open but some or many workers have been laid off",2,,
+ZMB,"No, temporarily closed by government mandate",1,,
+,,,,
+,,,,
+,as_pct,8%,,

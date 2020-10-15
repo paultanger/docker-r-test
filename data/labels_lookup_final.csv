@@ -1,0 +1,79 @@
+value,short_value,short_value_final
+Yes,Yes,Yes
+No,No,No
+Mining,Mining,other
+Retail trade and vehicle reparation,Retail trade and vehicle reparation,services
+Manufacturing Industry,Manufacturing Industry,other
+Low skilled services (e.g. household workers),Low skilled services (e.g. household workers),other
+Accomodation (hotel) services,Accomodation (hotel) services,other
+"Other professional, scientific or technical activities","Other professional, scientific or technical activities",other
+Agriculture,Agriculture,Agriculture
+"Vendor (not street, catalogue, shopping centers, internet...)","Vendor (not street, catalogue, shopping centers, internet...)",services
+Artistic and Enterntainment Activities,Artistic and Enterntainment Activities,other
+Transport Services,Transport Services,services
+Construction,Construction,other
+Livestock activities,Livestock activities,Agriculture
+Street Vendor,Street Vendor,services
+Retail or Wholesale,Retail or Wholesale,services
+Transportation and storage,Transportation and storage,services
+Manufacturing,Manufacturing,other
+Accomodation and food services,Accomodation and food services,services
+Financial activities or real estate,Financial activities or real estate,other
+Security and Legal,Security and Legal,other
+IT and Engineering,IT and Engineering,other
+Refuses to Answer,Refuses to Answer,
+Health,Health,other
+Construction or utilities,Construction or utilities,other
+Fishing or mining,Fishing or mining,other
+Education,Education,other
+Information and communication,Information and communication,other
+Domestic Work,Domestic Work,other
+Other services,Other services,other
+"Civil servant/ government worker (other than education, health)","Civil servant/ government worker (other than education, health)",other
+(Street) Vendor,(Street) Vendor,services
+Civil service/government administration,Civil service/government administration,other
+Agriculture or Fishing,Agriculture or Fishing,Agriculture
+W - Other informal work,W - Other informal work,other
+J – Information and Communication,J – Information and Communication,other
+U - Micro-entrpreneurs,U - Micro-entrpreneurs,services
+"A - Agriculture, forestry and fishing","A - Agriculture, forestry and fishing",Agriculture
+"M – Professional, scientific and technical services","M – Professional, scientific and technical services",other
+I – Accommodation and food service activities,I – Accommodation and food service activities,services
+P – Education,P – Education,other
+O – Public administrative and defense; compulsory social security,O – Public administrative and defense; compulsory social security,other
+H – Transportation and Storage,H – Transportation and Storage,services
+G – Wholesale and retail trade; repair of motor vehicles and motorcycles,G – Wholesale and retail trade; repair of motor vehicles and motorcycles,other
+F – Construction,F – Construction,other
+S – Other service activities,S – Other service activities,other
+T- Street vendor,T- Street vendor,services
+C – Manufacturing,C – Manufacturing,other
+V - Kasambahay,V - Kasambahay,other
+Q – Human health and social work activities,Q – Human health and social work activities,other
+K – Financial and insurance activities,K – Financial and insurance activities,other
+N – Administrative and support service activities,N – Administrative and support service activities,other
+"D – Electricity, gas, steam and air-conditioning supply","D – Electricity, gas, steam and air-conditioning supply",other
+"E – Water supply, sewerage, waste management and remediation activities","E – Water supply, sewerage, waste management and remediation activities",other
+"R – Arts, entertainment and recreation","R – Arts, entertainment and recreation",other
+B – Mining and Quarrying,B – Mining and Quarrying,other
+L – Real estate activities,L – Real estate activities,other
+Doesn´t apply,Doesn´t apply,
+"No, temporarily or permanently closed due to factors unrelated to the COVID 19 o","No, temp or perm closed","No, temp or perm closed"
+"Yes, Business remains open but operations have been reduced","Yes, but ops reduced","Yes, but ops reduced"
+"Yes, Farming work has not changed","Yes, farming unchanged","Yes, farming unchanged"
+"Yes, Business remains open as usual","Yes, as usual","Yes, as usual"
+"No, temporarily closed due to challenges related to the COVID-19 outbreak","No, temp closed COVID","No, temp closed COVID"
+"Yes, Business remains open but some/many people are working from home","Yes, but some WFH","Yes, but some WFH"
+"Yes, Business remains open but some or many workers have been laid off","Yes, but some laid off","Yes, but some laid off"
+"No, temporarily closed by government mandate","No, temp closed gov","No, temp closed gov"
+"Yes, Business remains open but operation has been reduced","Yes, but ops reduced","Yes, but ops reduced"
+"No, permanently closed due to challenges related to the COVID-19 outbreak","No, perm closed COVID","No, perm closed COVID"
+"No, temporarily or permanently closed due to factors unrelated to the COVID 19 outbreak","No, temp or perm closed","No, temp or perm closed"
+Less,Less,Less
+More,More,More
+Same,Same,Same
+None,None,None
+Fewer,Fewer,Less
+Same hours,Same hours,Same
+More hours,More hours,More
+Few hours,Few hours,Less
+No hour,No hour,None
